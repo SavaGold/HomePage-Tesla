@@ -85,7 +85,7 @@ function App() {
         />
         <Item
           title='Accessories'
-          desc='Order Online for Touchless Delivery'
+          desc=''
           descLink=''
           backgroundImg={Accessories}
           leftBtnTxt='ORDER NOW'

@@ -1,5 +1,5 @@
 import React from 'react'
-import Button from './Button'
+import Button from './Button.js'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import './Item.css'
 const Item = ({title, desc, descLink, backgroundImg, leftBtnTxt, leftBtnLink, rightBtnTxt, rightBtnLink, twoButtons, first}) => {
